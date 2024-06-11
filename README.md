@@ -1,4 +1,5 @@
 # Cypher Antivirus Website
+![Cypher Antivirus Logo](./white-logo.png)
 
 Welcome to the official website for Cypher Antivirus. This repository contains the source code for our website, which provides information about the features and benefits of using Cypher Antivirus.
 
